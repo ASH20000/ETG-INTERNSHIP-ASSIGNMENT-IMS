@@ -14,15 +14,15 @@ here the owner of inventory management system can perform some operations such a
   3.Updating the products
   4.updating the json file
   
-### 2.Shopping(purchase file)
+#### 2.Shopping(purchase file)
 this is where the user purchases the products and generates bill with Time of purchase which are then stored and maintained in sales.json file.user can buy the products and check whether the products are available or not .Here the following operations takes place:
    1.Displays Product list
    2.Generates Customer Bills with Time of purchase
    3.Stores the sales record
    4.Updates the json files 
    
- ### 3.pro_records.json
+ #### 3.pro_records.json
  this is used to store the product details
  
- ### 4.sales.json
+ #### 4.sales.json
  used to store the sales record 
